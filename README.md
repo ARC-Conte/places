@@ -27,9 +27,9 @@
     <body>
         <h1>Home</h1>
         <div class="box">
-            <a href="c:\Users\thomc\OneDrive\Documents\homeschool\A.R.C\places\places.thirft.html">thrift stores</a>
-            <a href="C:/Users/thomc/OneDrive/Documents/homeschool/A.R.C/places/places.musems.html">musems</a>
-            <a href="C:/Users/thomc/OneDrive/Documents/homeschool/A.R.C/places/places.other.html">parks</a>
+            <a href="https://mcallisterschool.github.io/places.thrift/">thrift stores</a>
+            <a href="https://mcallisterschool.github.io/places.musems/#">musems</a>
+            <a href="https://mcallisterschool.github.io/places.other/">parks</a>
         </div>
     </body>
 </html>
