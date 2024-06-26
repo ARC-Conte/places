@@ -1,15 +1,12 @@
-<!DOCTYPE html>
 <html>
     <head>
         <title>Fun places</title>
         <style>               
                 .box {
-
                     border: 1px solid rgba(255, 255, 255, 0.61);
                     background-color: rgb(114, 114, 114);
                     padding: 10px;
-                }
-                
+                }                
                 a:hover{ 
                     color: rgb(0, 0, 0);    font-weight: bold;                  
                 }
