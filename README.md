@@ -4,7 +4,7 @@
         <style>               
                 .box {
                     border: 1px solid rgba(255, 255, 255, 0.61);
-                    background-color: rgb(114, 114, 114);
+                    background-color: rgb(177,177,177);
                     padding: 10px;
                 }                
                 a:hover{ 
